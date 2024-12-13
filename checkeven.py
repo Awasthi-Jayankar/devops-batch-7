@@ -1,3 +1,4 @@
+#Added comments to increse readablity
 n = 2
 
 if ( n % 2 == 0){
